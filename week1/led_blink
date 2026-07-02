@@ -1,4 +1,12 @@
+
+/*
+Author: Arnav Verma
+Date: 2026-07-02
+
+
+*/
 int count = 0;
+
 
 void setup() {
   pinMode(13, OUTPUT);
